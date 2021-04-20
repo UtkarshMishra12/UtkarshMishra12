@@ -43,7 +43,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/utkarsh-mishra-en12/"><img src="https://img.shields.io/badge/-UtkarshMishra12-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nasautkarsh@gmail.com"><img src="https://img.shields.io/badge/-nasautkarsh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nasautkarsh@gmail.com"><img src="https://img.shields.io/badge/-nasautkarsh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://twitter.com/utkARsh2000_"><img src="https://img.shields.io/badge/-@utkARsh2000_-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshMishra12&" alt="UtkarshMishra12" /></p> -->
