@@ -5,7 +5,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=UtkarshMishra12.visitor-badge.issue.1">
 </p>
 
-- 🌱 I’m currently learning **Augmented reality, Virtual reality, XR etc.**
+- 🌱 I’m currently learning **Augmented reality ,Game Development & DSA etc.**
 
 - 👨‍💻 Some of my projects are available at [github](https://github.com/UtkarshMishra12?tab=repositories)
 
