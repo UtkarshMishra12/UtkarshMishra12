@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm UTKARSH MISHRA</h1>
-<h3 align="center">A passionate Electrical student from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 	
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=UtkarshMishra12.visitor-badge.issue.1">
 </p>
 
-- 🌱 I’m currently learning **Augmented reality ,Game Development & DSA etc.**
+- 🌱 I’m currently learning **React.js ,Web Development & DSA**
 
-- 👨‍💻 Some of my projects are available at [github](https://github.com/UtkarshMishra12?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/UtkarshMishra12?tab=repositories)
 
-- 💬 Ask me about **Augmented reality**
+- 💬 Ask me about **Open Source & Community**
 
 - 📫 How to reach me **nasautkarsh@gmail.com**
 
