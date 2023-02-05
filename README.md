@@ -5,11 +5,11 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=UtkarshMishra12.visitor-badge.issue.1">
 </p>
 
-- 🌱 I’m currently learning **React.js ,Web Development & DSA**
+- 🌱 I’m currently learning **React.js ,Web Development & DSA**.
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/UtkarshMishra12?tab=repositories)
+- 👨‍💻 All of my projects are available at [github](https://github.com/UtkarshMishra12?tab=repositories).
 
-- 💬 Ask me about **Open Source & Community**
+- 💬 Ask me about **Open Source & Community**.
 
 - 📫 How to reach me **nasautkarsh@gmail.com**
 
