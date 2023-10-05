@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm UTKARSH MISHRA</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 	
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=UtkarshMishra12.visitor-badge.issue.1">
-</p>
+<!--<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=UtkarshMishra12.visitor-badge.issue.1"> 
+</p> -->
 
 - 🌱 I’m currently learning **React.js ,Web Development & DSA**.
 
@@ -36,7 +36,7 @@
 <a href="https://github.com/UtkarshMishra12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UtkarshMishra12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UtkarshMishra12&layout=compact&langs_count=8&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshMishra12&theme=tokyonight"/>	
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=UtkarshMishra12&theme=dark"/>	
 </a>
 </p>
 
@@ -47,4 +47,8 @@
 <a href="mailto:nasautkarsh@gmail.com"><img src="https://img.shields.io/badge/-nasautkarsh@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://twitter.com/utkARsh2000_"><img src="https://img.shields.io/badge/-@utkARsh2000_-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
+## 👀 Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{UtkarshMishra12}/count.svg) 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshMishra12&" alt="UtkarshMishra12" /></p> -->
