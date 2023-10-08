@@ -48,6 +48,10 @@
 <a href="https://twitter.com/utkARsh2000_"><img src="https://img.shields.io/badge/-@utkARsh2000_-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UtkarshMishra12&limit=7&theme=dracula&combine_all_yearly_contributions=true)
+
+
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{UtkarshMishra12}/count.svg) 
